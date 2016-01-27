@@ -1,0 +1,11 @@
+{
+  "connectionLimit" : 100,
+  // database ip address
+  "host" : "127.0.0.1",
+  // database id
+  "user" : "root",
+  // database password
+  "password" : "123qwe",
+  // database name
+  "database" : "jini"
+}
