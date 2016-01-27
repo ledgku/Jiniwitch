@@ -1,7 +1,3 @@
-var cryptor_key = "sgenhyunheeminyoungsehunjunheeseyeonsungsudongkyu";
-var encryptor = require('simple-encryptor')(cryptor_key);
-
-
 /*************************
  *      Redis Setting
  ************************/
@@ -13,18 +9,4 @@ exports.redisAddr = function(){
 };
 exports.redisPort = function(){
     return 6739;
-};
-
-/*************************
- *         Cryptor
- ************************/
-
-exports.encrypted = function(data)
-{
-    return encryptor.encrypt(data);
-};
-
-exports.decrypted = function(data)
-{
-    return encryptor.decrypt(data);
 };
