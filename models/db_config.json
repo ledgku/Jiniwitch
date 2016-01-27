@@ -3,9 +3,9 @@
   // database ip address
   "host" : "127.0.0.1",
   // database id
-  "user" : "root",
+  "user" : "",
   // database password
-  "password" : "123qwe",
+  "password" : "",
   // database name
-  "database" : "jini"
+  "database" : ""
 }
