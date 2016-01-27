@@ -15,6 +15,7 @@
 
 ## REST API
 > REST API Definition
+
 | Feature |	Method	| Request URL | Todo Status |
 | :------------ |	:-------:	| :-----------------| :--------: |
 | 회원가입 |	POST	| /jini/user/join | complete |
