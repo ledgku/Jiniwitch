@@ -1,4 +1,4 @@
-# giniwitch
+# Jiniwitch
 > IoT Switch Server (Node.js, Arduino)
 
 &nbsp;
